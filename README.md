@@ -25,8 +25,12 @@ Don't read about my work — **ask it.** The site answers from my real CV and pr
 - **AI / LLM** — RAG · LangGraph · multi-provider failover · prompt design
 - **Frontend** — TypeScript · React
 
+#### Projects
+
+- **[ScrapeGPT](https://github.com/Sina-Amare/ScrapeGpt)** — Self-hosted, AI-assisted web scraping: an LLM proposes the selectors and the app self-heals them against the live HTML, then crawls and exports clean data. `FastAPI` · `React` · `Playwright`
+- **[SakaiBot](https://github.com/Sina-Amare/SakaiBot)** — AI superpowers inside any Telegram chat: slash commands for Q&A, translation, summarization, and image generation, with multi-provider failover. `Python` · `Telethon`
+- **[RubricEval](https://github.com/Sina-Amare/github-code-review)** — a rubric-driven code-evaluation platform: define rubrics and score code against them. `Next.js` · `FastAPI`
+
 #### Connect
 
 🌐 [sinaamareh.ir](https://sinaamareh.ir) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sina-amareh-909987286) &nbsp;·&nbsp; ✉️ sinaamareh0263@gmail.com
-
-<sub>★ My best projects are pinned below.</sub>
