@@ -1,12 +1,16 @@
 ## Hi, I'm Sina 👋
 
-**Python backend + AI/LLM engineer.** I build resilient backend services and LLM-powered applications — multi-provider RAG systems, async APIs, and secure-by-default tooling.
+**Python backend & AI/LLM engineer.** I build resilient backend services and LLM-powered applications — RAG systems, async APIs, and multi-provider LLM apps that keep working when a provider doesn't.
 
-I work across backend foundations (Django/DRF, PostgreSQL, Redis, Celery) and applied AI — RAG, LangGraph workflows, and multi-provider LLM failover behind FastAPI. At Dekamond I built automation and LLM systems for Kaleri.ai and cut model-running costs by ~70%. Based in Tehran, open to backend / AI engineering roles (remote-friendly), and currently doing an M.Sc. in Software Engineering.
+#### What I'm working on
+- Production LLM systems: RAG pipelines, LangGraph workflows, and multi-provider failover behind FastAPI.
+- Open to backend / AI engineering roles — remote-friendly, based in Tehran.
 
-**Ask my portfolio's live RAG chatbot anything about my work → [sinaamareh.ir](https://sinaamareh.ir)**
+#### My portfolio is a live RAG chatbot
+Don't read about my work — **ask it.** The site answers from my real CV and projects, grounded and streamed, running on the same multi-provider failover I build into production.
+→ **[sinaamareh.ir](https://sinaamareh.ir)**
 
-### Tech
+#### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -18,15 +22,11 @@ I work across backend foundations (Django/DRF, PostgreSQL, Redis, Celery) and ap
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 
 - **Backend** — Python · FastAPI · Django/DRF · PostgreSQL · Redis · Celery · Docker
-- **AI / LLM** — RAG · LangGraph · multi-provider failover · prompt design · token budgeting
-- **Frontend & tooling** — TypeScript · React · SQLAlchemy/Alembic · Linux · Git
+- **AI / LLM** — RAG · LangGraph · multi-provider failover · prompt design
+- **Frontend** — TypeScript · React
 
-### Featured projects
-
-- **[ScrapeGPT](https://github.com/Sina-Amare/ScrapeGpt)** — self-hosted, AI-assisted web scraping: an LLM proposes the extraction selectors, then the app re-validates and self-heals them against the live HTML. `FastAPI` · `PostgreSQL` · `React` · `Playwright`
-- **[SakaiBot](https://github.com/Sina-Amare/SakaiBot)** — AI superpowers inside any Telegram chat: in-chat slash commands for Q&A, translation, summarization, and image generation, with provider failover. `Python` · `Telethon`
-- **[RubricEval](https://github.com/Sina-Amare/github-code-review)** — a rubric-driven code-evaluation platform. `Next.js` · `FastAPI`
-
-### Reach me
+#### Connect
 
 🌐 [sinaamareh.ir](https://sinaamareh.ir) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sina-amareh-909987286) &nbsp;·&nbsp; ✉️ sinaamareh0263@gmail.com
+
+<sub>★ My best projects are pinned below.</sub>
